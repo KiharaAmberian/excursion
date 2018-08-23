@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.coming-soon {
+  font-size: 16px;
+  text-align: center;
+  font-family: verdana;
+  font-weight: normal;
+}
+
+h2
+{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.excursion-remembers  {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  font-weight: lighter;
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
+  font-family: verdana;
+}
